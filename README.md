@@ -1,17 +1,13 @@
 <p align="center">
-  <img src="assets/Zsearcher.png" alt="Technical Cynite">
+  <img src="assets/Zsearcher.png" alt="TECHBOY ANAS">
 </p>
 <h1 align="center">
   <b>ᎪႮͲϴ-ҒᏆᏞͲᎬᎡ-ᏴϴͲ</b>
 </h1>
-<a href="https://youtube.com/channel/UCiaz-J50QhtJ73XEEjP_aLQ">
+<a href="https://www.youtube.com/channel/UCHmjP-UpMDwYVc7xw10uUGA">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
-[![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/CyniteOfficial/Auto-Filter-Bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=blue)](https://github.com/CyniteOfficial/Auto-Filter-Bot/fork)
-[![Size](https://img.shields.io/github/repo-size/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=black)](https://github.com/CyniteOfficial/Auto-Filter-Bot)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/Aadhi000/Ajax)   
-[![Contributors](https://img.shields.io/github/contributors/Aadhi000/Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/CyniteOfficial/Auto-Filter-Bot/graphs/contributors)
+
 ## Features
 
 - [x] Auto Filter
@@ -50,7 +46,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/CyniteOfficial/Auto-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/techboyanas/Auto-Filter-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -96,5 +92,4 @@ python3 bot.py
 • /broadcast - to broadcast a message to Cynite users
 ```
 
-Cʀᴇᴅɪᴛ ›› [𝐎𝐩𝐮𝐬 𝐓𝐞𝐜𝐡𝐳](https://t.me/OpusTechz) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/CyniteOfficial)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐂𝐲𝐧𝐢𝐭𝐞 𝐁𝐨𝐭𝐬](https://t.me/CyniteBots)
+Cʀᴇᴅɪᴛ ›› [𝐎𝐩𝐮𝐬 𝐓𝐞𝐜𝐡𝐳](https://t.me/OpusTechz) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/CyniteOfficial)                                                                      
